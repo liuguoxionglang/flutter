@@ -1,6 +1,6 @@
 # myflutter
 
-A new Flutter project.
+flutter 学习笔记.
 
 ## Getting Started
 
