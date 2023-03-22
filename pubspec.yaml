@@ -24,7 +24,7 @@ dependencies:
   font_awesome_flutter: any
   toast: ^0.1.3
   http: '>=0.11.3+12'
-  dio: ^1.0.6
+  dio: ">=1.0.6 <6.0.0"
 
   fish_redux: 0.2.0
   flutter_swiper: ^1.1.6
